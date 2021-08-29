@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +6,10 @@
 </head>
 <body>
   <h1>Oliver's Chores</h1>
-
+<br>
     <p>Daily Chores</p>
-
+    <br>
+<h1>These are tasks that should be completed daily. Upon completetion, the chores are worth $20. The daily chores must be completed every day in order to earn the money.</p> 
 <div>
   <input type="checkbox" id="empty dishwasher" name="empty dishwasher"
          checked>
