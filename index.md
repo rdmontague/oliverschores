@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <title>Oliver's Chores</title>
 </head>
 <body>
   <h1>Oliver's Chores</h1>
