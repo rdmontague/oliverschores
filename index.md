@@ -32,11 +32,16 @@
   <input type="checkbox" id="practice Japanese" name="practice Japanese">
   <label for="practice Japanese">practice Japanese</label>
 </div>
+
+<div>
+  <input type="checkbox" id="schoolwork" name="schoolwork">
+  <label for="schoolwork">schoolwork</label>
+</div>
     
     <br>
     <h1>Weekly Chores</h1>
     <br>
-<p>These are tasks that should be completed once a week or as needed. Upon completetion, the chores are worth $20. The daily chores must be completed every week in order to earn the money.</p> 
+<p>These are tasks that should be completed once a week or as needed. Upon completetion, the chores are worth $20. These chores must be completed every week in order to earn the money.</p> 
     <br>
 <div>
   <input type="checkbox" id="replace dog pads in room" name="replace dog pads in room">
@@ -61,6 +66,10 @@
      <div>
   <input type="checkbox" id="bring cups and plates to kitchen" name="bring cups and plates to kitchen">
   <label for="bring cups and plates to kitchen">bring cups and plates to kitchen</label>
+</div>
+<div>
+  <input type="checkbox" id="laundry" name="laundry">
+  <label for="laundry">laundry</label>
 </div>
 </body>
 </html>
