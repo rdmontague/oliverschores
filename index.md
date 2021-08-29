@@ -7,9 +7,9 @@
 <body>
   <h1>Oliver's Chores</h1>
 <br>
-    <p>Daily Chores</p>
+    <h1>Daily Chores</h1>
     <br>
-<h1>These are tasks that should be completed daily. Upon completetion, the chores are worth $20. The daily chores must be completed every day in order to earn the money.</h1> 
+<p>These are tasks that should be completed daily. Upon completetion, the chores are worth $20. The daily chores must be completed every day in order to earn the money.</p> 
 <br>
     <br>
 <div>
@@ -19,6 +19,16 @@
 </div>
 
 <div>
+  <input type="checkbox" id="brush teeth" name="brush teeth">
+  <label for="brush teeth">brush teeth</label>
+</div>
+    
+    <div>
+  <input type="checkbox" id="feed the dogs" name="feed the dogs">
+  <label for="feed the dogs">feed the dogs</label>
+</div>
+    
+    <div>
   <input type="checkbox" id="brush teeth" name="brush teeth">
   <label for="brush teeth">brush teeth</label>
 </div>
