@@ -9,7 +9,7 @@
 <br>
     <p>Daily Chores</p>
     <br>
-<h2>These are tasks that should be completed daily. Upon completetion, the chores are worth $20. The daily chores must be completed every day in order to earn the money.</h2> 
+<h1>These are tasks that should be completed daily. Upon completetion, the chores are worth $20. The daily chores must be completed every day in order to earn the money.</h1> 
 <div>
   <input type="checkbox" id="empty dishwasher" name="empty dishwasher"
          checked>
