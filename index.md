@@ -11,7 +11,6 @@
     <br>
 <p>These are tasks that should be completed daily. Upon completetion, the chores are worth $20. The daily chores must be completed every day in order to earn the money.</p> 
 <br>
-    <br>
 <div>
   <input type="checkbox" id="empty dishwasher" name="empty dishwasher"
          checked>
@@ -29,8 +28,11 @@
 </div>
     
     <div>
-  <input type="checkbox" id="brush teeth" name="brush teeth">
-  <label for="brush teeth">brush teeth</label>
+  <input type="checkbox" id="practice Japanese" name="practice Japanese">
+  <label for="practice Japanese">practice Japanese</label>
 </div>
+    
+    <br>
+    <h1>Weekly Chores</h1>
 </body>
 </html>
