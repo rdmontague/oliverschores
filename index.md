@@ -34,5 +34,32 @@
     
     <br>
     <h1>Weekly Chores</h1>
+    <br>
+<p>These are tasks that should be completed once a week or as needed. Upon completetion, the chores are worth $20. The daily chores must be completed every week in order to earn the money.</p> 
+    <br>
+<div>
+  <input type="checkbox" id="replace dog pads in room" name="replace dog pads in room">
+  <label for="replace dog pads in room">replace dog pads in room</label>
+</div>
+    <div>
+  <input type="checkbox" id="pick up trash in room" name="pick up trash in room">
+  <label for="pick up trash in room">pick up trash in room</label>
+</div>
+    <div>
+  <input type="checkbox" id="put bag of garbage by door" name="put bag of garbage by door">
+  <label for="put bag of garbage by door">put bag of garbage by door</label>
+</div>
+    <div>
+  <input type="checkbox" id="clean bannister" name="clean bannister">
+  <label for="clean bannister">clean bannister</label>
+</div>
+       <div>
+  <input type="checkbox" id="sweep stairs" name="sweep stairs">
+  <label for="sweep stairs">sweep stairs</label>
+</div>
+     <div>
+  <input type="checkbox" id="bring cups and plates to kitchen" name="bring cups and plates to kitchen">
+  <label for="bring cups and plates to kitchen">bring cups and plates to kitchen</label>
+</div>
 </body>
 </html>
